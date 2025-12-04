@@ -123,6 +123,20 @@ This project demonstrates foundational data analysis skills, including cleaning,
 
 Pull requests are welcome! For major changes, please open an issue first to discuss what you would like to update.
 
----
+## About This Project-Mexico Real Estate dataset
+
+This project explores the Mexico Real Estate dataset to uncover insights into property prices, home sizes, and regional market differences across various states. Using Python, pandas, Matplotlib, and Plotly, the analysis examines trends such as price distribution, average property value per region, and factors that may influence housing costs.
+
+The goal of this project is to:
+
+ Understand how home prices vary across Mexico
+
+ Identify which regions are more affordable or more expensive
+
+ Analyze typical property sizes and their relationship to price
+
+ Visualize insights using charts and interactive maps
+
+This project demonstrates practical data analysis skills, including data cleaning, statistical summaries, visual storytelling, and deriving insights that support decision-making in real estate markets.
 
 
